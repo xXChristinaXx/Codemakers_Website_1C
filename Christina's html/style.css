@@ -1,0 +1,49 @@
+div {
+  width: 200px;
+  height: 200px;
+  background-color: #FF55BC;
+  display:inline-block;
+  border: 5px solid black;
+  border-radius: 5px;
+}
+#fi {
+  background-color: red;
+  margin-right: 20px;
+}
+
+#se {
+  background-color: blue;
+  margin-top: 50px;
+}
+
+#th {
+  background-color: yellow;
+}
+
+
+
+p {
+  color: #CC0005;
+  font-family:fantasy;
+}
+
+h3 {
+  color: powderblue;
+}
+
+#first {
+  color: lightpink;
+}
+
+.same {
+  color: #DDD556;
+}
+
+a {
+  text-decoration:none;
+}
+
+a:hover {
+  color: #BCD576;
+  font-weight:bold;
+}
